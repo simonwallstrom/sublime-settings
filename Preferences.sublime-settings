@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Devastate/tomorrowNight.tmTheme",
+	"draw_white_space": "selection",
+	"font_face": "Droid Sans Mono",
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"tab_size": 4,
+	"theme": "Devastate.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_wrap": "false"
+}

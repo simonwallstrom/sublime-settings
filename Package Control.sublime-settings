@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Devastate",
+		"GitGutter",
+		"Jade",
+		"JavaScript Completions",
+		"PackageResourceViewer",
+		"Pretty JSON",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Syntax Highlighting for Sass",
+		"Tomorrow Color Schemes"
+	]
+}
