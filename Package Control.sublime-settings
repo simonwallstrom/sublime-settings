@@ -2,16 +2,15 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Devastate",
-		"Devastate copy",
+		"droid",
 		"GitGutter",
 		"Jade",
 		"JavaScript Completions",
+		"Package Control",
 		"PackageResourceViewer",
 		"Pretty JSON",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
-		"Syntax Highlighting for Sass",
-		"Tomorrow Color Schemes"
+		"Syntax Highlighting for Sass"
 	]
 }

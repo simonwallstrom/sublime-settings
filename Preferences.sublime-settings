@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Devastate/tomorrowNight.tmTheme",
-	"draw_white_space": "selection",
+	"color_scheme": "Packages/droid/tomorrowNight.tmTheme",
+	"draw_white_space": "all",
 	"font_face": "Droid Sans Mono",
+	"trim_trailing_white_space_on_save": true,
 	"font_size": 15,
 	"highlight_line": true,
 	"ignored_packages":
@@ -10,8 +11,9 @@
 	],
 	"scroll_past_end": true,
 	"tab_size": 4,
-	"theme": "Devastate.sublime-theme",
+	"theme": "droid.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
-	"word_wrap": "false"
+	"word_wrap": "false",
+	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "build/*", "node_modules/*"]
 }
