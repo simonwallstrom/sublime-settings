@@ -15,5 +15,6 @@
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": "false",
-	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "build/*", "node_modules/*"]
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "build", "node_modules", "dist", ".sass-cache"],
+	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "build/*", "node_modules/*", "dist/*"]
 }
