@@ -1,10 +1,38 @@
 {
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"build/*",
+		"node_modules/*",
+		"dist/*"
+	],
 	"color_scheme": "Packages/droid/tomorrowNight.tmTheme",
 	"draw_white_space": "all",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
 	"font_face": "Droid Sans Mono",
-	"trim_trailing_white_space_on_save": true,
-	"font_size": 15,
+	"font_size": 14,
 	"highlight_line": true,
+	"line_padding_top": 1,
+    "line_padding_bottom": 1,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -13,8 +41,7 @@
 	"tab_size": 4,
 	"theme": "droid.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
-	"word_wrap": "false",
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "build", "node_modules", "dist", ".sass-cache"],
-	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "build/*", "node_modules/*", "dist/*"]
+	"word_wrap": "false"
 }
